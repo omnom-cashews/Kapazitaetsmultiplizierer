@@ -1,0 +1,2 @@
+# Kapazitaetsmultiplizierer
+Berechnungsalgorithmen für Kapazitätsmultiplizierer in mehreren Schaltungsvarianten
